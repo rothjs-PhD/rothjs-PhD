@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rothjs-PhD
-- I’m interested in the splicing of pre-mRNA, the role(s) of protein arginine methylation, and the clinical implications of altered splicing
+- I’m an MD/PhD student interested in the splicing of pre-mRNA, the role(s) of protein arginine methylation, and the clinical implications of altered splicing
 - Reach me at jacob.roth@einsteinmed.edu
 
 <!---
